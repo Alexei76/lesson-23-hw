@@ -17,5 +17,13 @@
   "dependencies": {
     "node-sass": "^4.14.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexei76/lesson-23-hw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexei76/lesson-23-hw/issues"
+  },
+  "homepage": "https://github.com/Alexei76/lesson-23-hw#readme",
   "description": ""
 }
